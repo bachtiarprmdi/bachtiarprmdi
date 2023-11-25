@@ -1,16 +1,16 @@
-### Hi there 👋
+<h4 align="center"><samp> Hi there 👋  welcome to my Github! I'm exploring Cloud Tech and Cybersec 👾 ☁️ and my name is (what?) My name is (who?) My name is (chka-chka, Adi).  </samp></h4>
 
-<!--
-**bachtiarprmdi/bachtiarprmdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="250" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Moir%C3%A9_Uhr_Sekundenzeiger.gif">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href= "https://blog.vaahtera.my.id/"><img src="https://img.icons8.com/small/32/domain.png"/></a>
+<a href= "https://twitter.com/Bachtiarprmdi"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://github.com/bachtiarprmdi"><img src="https://img.icons8.com/small/32/github-2.png"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
